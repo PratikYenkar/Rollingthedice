@@ -88,7 +88,7 @@ ReactNativeHapticFeedback.trigger("impactLight", options);
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 2,
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: '#FFF2F2',
